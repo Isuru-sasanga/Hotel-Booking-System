@@ -1,5 +1,5 @@
 import Header from "../Header";
 
 export default function HomePage() {
-  return <Header />;
+  return <div>home</div>;
 }
